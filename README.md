@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathura Lakshan</h1>
-<h3 align="center">A Computer Science undergraduate from the University of Colombo School of Computing</h3>
+<h3 align="center">A Computer Science undergraduate from University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura226&label=Profile%20views&color=0e75b6&style=flat" alt="chathura226" /> </p>
 
